@@ -1,0 +1,43 @@
+set cindent
+set encoding=utf8
+set fileencoding=utf8
+set fileencodings=utf8,cp950,latin1
+set hls
+set nu
+set ru
+set secure
+set expandtab
+set sw=4
+set softtabstop=4
+set termencoding=utf8
+set nocompatible
+set backspace=2
+set relativenumber
+syntax on
+
+" tab
+" go to prev tab
+map <S-H> gT
+" go to next tab
+map <S-L> gt
+" new tab
+map <C-t><C-t> :tabnew<CR>
+
+" status bar
+set laststatus=2
+set statusline=%2*%m
+set statusline+=%4*%<\%5*[%{&encoding}, " encoding
+set statusline+=%{&fileformat}] " file format
+set statusline+=%4*\ %1*[%F]
+set statusline+=%4*%=\ %6*%y%4*\ %3*%l%4*,\ %3*%c%4*\ \<\ %2*%P%4*\ \>
+
+" --- move around splits {
+" move to and maximize the below split
+map <C-J> <C-W>j<C-W>_
+" move to and maximize the above split
+map <C-K> <C-W>k<C-W>_
+" move to and maximize the left split
+nmap <c-h> <c-w>h<c-w><bar>
+" move to and maximize the right split 
+nmap <c-l> <c-w>l<c-w><bar>
+"}

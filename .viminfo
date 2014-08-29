@@ -1,0 +1,412 @@
+# 本 viminfo 檔案是由 Vim 7.4 所產生.
+# 如果想要自行修改請特別小心！
+
+# 'encoding' 在此檔建立時的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/Proxy
+
+# Last Substitute Search Pattern:
+~MSle0&private
+
+# 前一組替代字串:
+$
+
+# 命令列 歷史記錄 (新到舊):
+:q
+:w
+:wq
+:Php <q-args>    
+:tabe ../test/test-picktime-rule.php
+:W
+:e
+:tabe ../test/test-dynamic-parser.php
+:tabe ../parser-lib/ParserLib.php
+:tabe ../dynamic-parser-lib/DynamicParseCore.php
+:tabe ../dynamic-parser-lib/DynamicParserLib.php
+:e ../traits/GraphAPITrait.php
+:q!
+:tabe ../traits/GraphAPITrait.php
+:e parsePreview.php
+:e DynamicParseCore.php
+:e js/camel.js
+:e background.js
+:e alpacaUI.js
+:tabe parsePreview.php
+
+# 搜尋字串 歷史記錄 (新到舊):
+?/convert
+?/test
+?/unixtimestamp
+?/pickFirstDate
+?/Proxy
+?/usePix
+?/var
+?/fbli
+?/pro
+?/proxy
+?/get
+?/go
+? private
+?/adjus
+?/assignTa
+?/check
+?/loadR
+?/load
+? $url
+?/  adfwe
+? result
+?/parse_result
+? \/\/
+?/simple
+?/conve
+?/ad
+?/parseTo
+?/var_du
+?/prePa
+?/tes
+
+# 運算式 歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 暫存器:
+"0	LINE	0
+	    var rule = decodeURIComponent(window.location.search.substring(1)).match(/preview=(.*)/)[1];
+"1	LINE	0
+	
+"2@	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	dd
+"5	LINE	0
+	
+"6	LINE	0
+	        url = $(this).data("url");
+"7	LINE	0
+	
+"8	LINE	0
+	    
+"9	LINE	0
+	$parser->test($simple_url);
+"c	CHAR	0
+	d 
+"l	CHAR	0
+	�kb
+"p	CHAR	0
+	iqp_main_comment:w�ku�kda->text()�kb�kb�kb�kb�kb�kbinnerHtml():w�kP�kd�kd�kd�kd�kd�kd�kd�kd�kd
+"q	CHAR	0
+	�kr
+"u	CHAR	0
+	it
+"x	CHAR	0
+	 
+""-	CHAR	0
+	1
+
+# 檔案標記:
+'0  242  0  ~/z.sh
+'1  149  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+'2  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/MERGE_MSG
+'3  23  29  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+'4  2  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+'5  4  37  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+'6  6  17  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+'7  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/deploy.hosts
+'8  102  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/niusnews-parser-lib/NiusNewsParserCore.php
+'9  74  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/traits/GraphAPITrait.php
+
+# Jumplist (由新到舊):
+-'  242  0  ~/z.sh
+-'  1  0  ~/z.sh
+-'  149  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  75  34  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  91  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  23  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/MERGE_MSG
+-'  2  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  3  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  4  37  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+-'  6  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+-'  13  21  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/deploy.hosts
+-'  102  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/niusnews-parser-lib/NiusNewsParserCore.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/niusnews-parser-lib/NiusNewsParserCore.php
+-'  74  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/traits/GraphAPITrait.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/traits/GraphAPITrait.php
+-'  65  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  124  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  100  50  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  29  38  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  130  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  117  16  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  112  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  122  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  6  23  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/addp-hunk-edit.diff
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/addp-hunk-edit.diff
+-'  123  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+-'  107  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  67  8  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  114  47  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  59  8  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  32  15  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  31  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  184  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  170  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  21  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/background.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/background.js
+-'  89  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  66  49  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  76  8  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  67  33  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  68  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  71  65  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  73  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  74  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  72  11  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  80  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpacaUI.js
+-'  72  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpaca.js
+-'  17  10  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpaca.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/js/alpaca.js
+-'  24  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/ParserLib.php
+-'  160  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/ParserLib.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/ParserLib.php
+-'  93  42  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  153  42  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  94  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  154  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  166  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  16  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/example/ExampleParserLib.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/example/ExampleParserLib.php
+-'  26  8  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/parser-lib/ParserLib.php
+-'  11  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/test.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/test.php
+-'  15  37  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/test.php
+-'  16  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/test.php
+-'  2  37  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/test.php
+-'  172  14  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  139  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/index.php
+-'  14  35  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DBRuleFetcher.php
+-'  7  8  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DBRuleFetcher.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DBRuleFetcher.php
+-'  83  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  45  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  24  51  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/src/js/domCssGenerator.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/Alpaca/src/js/domCssGenerator.js
+-'  64  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  46  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParserLib.php
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParse
+-'  22  20  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DBRuleFetcher.php
+-'  149  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  75  34  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  91  5  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  23  12  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/MERGE_MSG
+-'  2  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  3  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  1  0  /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+-'  4  37  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+-'  6  4  /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+
+# 緩衝區列表:
+%~/z.sh	242	0
+
+# 檔案內 Mark 記錄 (由新到舊):
+
+> ~/z.sh
+	"	242	0
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/webroot/js/camel.js
+	"	149	0
+	^	146	46
+	.	146	45
+	+	22	0
+	+	23	0
+	+	22	0
+	+	23	0
+	+	21	0
+	+	21	8
+	+	21	0
+	+	23	29
+	+	144	34
+	+	149	0
+	+	148	33
+	+	149	0
+	+	75	35
+	+	75	4
+	+	75	36
+	+	91	5
+	+	75	23
+	+	75	48
+	+	75	4
+	+	75	22
+	+	75	55
+	+	75	4
+	+	75	0
+	+	148	33
+	+	149	0
+	+	148	49
+	+	93	0
+	+	92	29
+	+	93	0
+	+	149	0
+	+	146	45
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	2	0
+	+	3	33
+	+	3	0
+	+	3	0
+	+	1	40
+	+	3	0
+	+	1	39
+	+	2	0
+	o	3	1
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/dynamic-parser-lib/DynamicParseCore.php
+	"	160	39
+	^	160	40
+	.	160	39
+	+	128	25
+	+	130	0
+	+	128	27
+	+	114	9
+	+	128	74
+	+	129	62
+	+	129	70
+	+	129	16
+	+	129	43
+	+	129	16
+	+	129	16
+	+	128	0
+	+	128	12
+	+	129	0
+	+	128	11
+	+	129	33
+	+	128	0
+	+	128	0
+	+	129	0
+	+	119	17
+	+	128	0
+	+	127	10
+	+	126	10
+	+	125	10
+	+	124	10
+	+	123	10
+	+	121	29
+	+	121	2
+	+	120	2
+	+	119	0
+	+	128	0
+	+	121	23
+	+	180	0
+	+	179	81
+	+	180	0
+	+	179	82
+	+	182	0
+	+	178	0
+	+	69	31
+	+	29	38
+	+	69	0
+	+	12	41
+	+	15	33
+	+	7	20
+	+	14	53
+	+	160	51
+	+	166	20
+	+	160	54
+	+	162	17
+	+	60	0
+	+	57	46
+	+	71	17
+	+	60	0
+	+	59	0
+	+	59	0
+	+	58	15
+	+	59	20
+	+	60	0
+	+	55	35
+	+	159	0
+	+	160	32
+	+	159	30
+	+	55	46
+	+	159	0
+	+	160	34
+	+	142	0
+	+	160	39
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-picktime-rule.php
+	"	4	37
+	^	10	38
+	.	10	38
+	+	1	0
+	+	4	30
+	+	15	38
+	+	13	25
+	+	20	0
+	+	15	56
+	+	16	21
+	+	13	10
+	+	5	20
+	+	6	8
+	+	6	6
+	+	15	4
+	+	17	4
+	+	17	56
+	+	18	0
+	+	18	0
+	+	12	0
+	+	6	18
+	+	4	26
+	+	6	38
+	+	7	35
+	+	8	10
+	+	15	0
+	+	15	0
+	+	15	59
+	+	17	59
+	+	14	19
+	+	19	0
+	+	9	17
+	+	10	38
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/test/test-dynamic-parser.php
+	"	1	0
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-front/deploy.hosts
+	"	1	0
+
+> ~/.cshrc.d/base
+	"	87	0
+	^	87	23
+	.	87	22
+	+	86	63
+	+	87	173
+	+	87	22
+
+> /aquassd/account/pixuser/gary62107/pix2014summerintern/crawler-libs/libs/niusnews-parser-lib/NiusNewsParserCore.php
+	"	102	0
